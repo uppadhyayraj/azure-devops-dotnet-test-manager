@@ -4,7 +4,12 @@ This extension provides enhanced testing capabilities within VS Code for Dotnet 
 
 ## Overview
 
-The "Azure DevOps - Dotnet Test Manager" extension aims to bridge the gap in VS Code's testing features for Mac users and provide a seamless experience for associating automated tests with Azure DevOps test cases. This allows for end-to-end test automation, execution reporting, and integration with build and release pipelines.
+VS Code is an excellent IDE for cross-platform code development and testing, and offers robust support for various programming languages, including the .NET platform. The latest C#/Dotnet extension further enhances .NET development within VS Code.
+
+However, noticed that VS Code is still missing some critical features, specifically for Mac users when it comes to testing. One such feature is the ability to associate automated tests with Azure DevOps test cases. This feature is incredibly valuable for end-to-end test automation, as it facilitates running tests from pipelines (both build and release), leading to comprehensive automated test execution and reporting.
+
+I developed this extension to bridge the gap and provide the [Same Visual Studio Experience](https://learn.microsoft.com/en-us/azure/devops/test/associate-automated-test-with-test-case?view=azure-devops) for all testers using dotnet and Azure DevOps test management.
+
 
 ## Key Features
 
